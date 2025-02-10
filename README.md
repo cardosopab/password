@@ -1,3 +1,26 @@
+# Random Password Generator
+## Getting Started
+### Install Dependencies
+```sh
+bun install
+```
+
+### Run Dev Server
+```sh
+bun run dev
+```
+
+### Build for Production
+```sh
+bun run build
+```
+
+## Deploying to Firebase
+```sh
+firebase deploy
+```
+This will upload your dist/ directory to Firebase Hosting, making it live on your configured domain.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
